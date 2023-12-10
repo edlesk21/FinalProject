@@ -7,7 +7,7 @@ body{
     margin: 40px;
     padding: 40px;
     color: #555555;
-    border-top: 10px solid #ecf0f1;
+    border-top: 10px;
     background: #fff;
 }
 h1{
@@ -23,16 +23,18 @@ p{
     list-style: none;
     padding: 0;
     margin:0;
+    display: flex;
+    justify-content: center;
 }
 .sticky-navbar li {
     display: inline;
-    margin-right: 20px;
+    margin-right: 80px;
 }
 
 .sticky-navbar a {
     text-decoration: none;  
-    color: #000000;
-    margin-right: 15px;
+    color: #555555;
+    margin-right: 30px;
 }
 
 .sticky-navbar {
@@ -54,7 +56,7 @@ p{
 }
 
 .image-container{
-    float: left;
+    float: right;
     margin: 0 0 10px 10px;
 }
 
@@ -62,15 +64,10 @@ p{
     max-width: 20%;
 }
 
-#blog{
+#bio{
     border-top: 1px dotted #ccc;
 }
 
-.blog-post{
+.bio-about{
     border-bottom: 1px solid #ccc;
-}
-
-.container {
-    display: flex;
-    align-items: center;
 }
