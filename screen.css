@@ -10,6 +10,14 @@ body{
     border-top: 10px solid #ecf0f1;
     background: #fff;
 }
+h1{
+    font-size: 3em;
+    margin: 0;
+    }
+    
+p{
+    line-height: 1.4em;
+}
 
 .sticky-navbar{
     list-style: none;
