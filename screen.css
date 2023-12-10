@@ -70,3 +70,8 @@ p{
 .blog-post{
     border-bottom: 1px solid #ccc;
 }
+
+.container {
+    display: flex;
+    align-items: center;
+}
