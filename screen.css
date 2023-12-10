@@ -7,7 +7,7 @@ body{
     margin: 40px;
     padding: 40px;
     color: #555555;
-    border-top: 10px solid #242424;
+    border-top: 10px solid #ecf0f1;
     background: #fff;
 }
 
@@ -24,6 +24,7 @@ body{
 .sticky-navbar a {
     text-decoration: none;  
     color: #fff;
+    margin-right: 15px;
 }
 
 .sticky-navbar {
