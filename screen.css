@@ -55,12 +55,12 @@ p{
 }
 
 .image-container{
-    float: right;
+    float: left;
     margin: 0 0 10px 10px;
 }
 
 .image-container img {
-    max-width: 100%;
+    max-width: 60%;
 }
 
 .image-caption{
