@@ -83,7 +83,11 @@ p{
 }
 
 .bio-about{
-    border-bottom: 1px solid #ccc;
+    border-bottom: 1px solid #0000;
+}
+
+.projects{
+    border-bottom: 1px solid #000;
 }
 
 #projects{
