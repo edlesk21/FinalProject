@@ -86,10 +86,11 @@ p{
     border-bottom: 1px solid #0000;
 }
 
-.projects{
-    border-bottom: 1px solid #000;
-}
-
 #projects{
     border-top: 1px dotted #ccc;
+}
+
+.contact-info{
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
 }
